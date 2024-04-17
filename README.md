@@ -5,7 +5,6 @@
 Author: Baris Zongur
 Examiner: Dr. Felix Dietrich
 
-[Final Report](https://mediatum.ub.tum.de/doc/1728106/zmn1hd1dca017942wfywzl76d.pdf)
 
 ## Data Preparation
 
